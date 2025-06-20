@@ -1,0 +1,6 @@
+# Logs and outputs
+**/*.log
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
