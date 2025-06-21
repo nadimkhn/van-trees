@@ -2,6 +2,8 @@
 
 This project was developed as part of the **Data Visualization course** within the **UBC Key Capabilities in Data Science** certificate program. It focuses on analyzing a subset of the publicly available [Vancouver Street Trees dataset](https://opendata.vancouver.ca/explore/dataset/public-trees/information/) to uncover patterns in urban forestry through exploratory data analysis (EDA) and interactive Altair visualizations.
 
+[![View on GitHub Pages](https://img.shields.io/badge/View-GitHub%20Pages-blue)]([https://yourusername.github.io/your-repo-name/](https://nadimkhn.github.io/van-trees/))
+
 ## Objective
 
 To explore spatial, temporal, and species-related patterns in Vancouver's urban forest, and communicate insights via an interactive dashboard. The questions addressed include:
